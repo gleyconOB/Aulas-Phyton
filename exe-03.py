@@ -1,0 +1,6 @@
+nome = input("Digite seu nome: ")
+titulo = float(input("Digite o seu titulo de eleitor: "))
+numeroCand = float (input("Digite o numero do seu candidato"))
+print("Seu nome é: ", nome)
+print("Seu titulo de eleitor é: ", titulo)
+print("O número do candidato é: ", numeroCand)
